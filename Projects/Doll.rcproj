@@ -1,0 +1,107 @@
+<RealityCapture version="1.2.0.17385" sceneRevision="17" sceneId="{37252CA4-6DBE-4500-B270-36514568EF3E}" lock="0rNcUeo4BEe9Lwp8zpS1eg==">
+    <contributors>
+        <contributor name="obliy@epic" computerName="DESKTOP-KSUJJ87" id="0rNcUeo4BEe9Lwp8zpS1eg=="/>
+    </contributors>
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000001.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000002.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000003.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000004.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000005.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000006.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000007.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000008.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000009.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000010.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000011.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000012.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000013.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000014.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000015.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000016.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000017.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000018.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000019.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000020.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000021.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000022.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000023.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000024.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000025.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000026.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000027.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000028.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000029.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000030.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000031.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000032.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000033.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000034.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000035.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000036.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000037.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000038.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000039.png">
+        </input>
+        <input fileName="C:\Users\frontis\Downloads\video file sample1 (1) frames\frame000040.png">
+        </input>
+    </source>
+    <reconstructions selectedComponentId="{D7AA29B7-40F3-46E6-8BF1-BBBCE5B8A78F}">
+        <component name="Component 0" id="{D7AA29B7-40F3-46E6-8BF1-BBBCE5B8A78F}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="Doll\sfm0.dat" selectedModel="0" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="Doll\colorNormalization0.dat" />
+            <metadata fileName="Doll\metadata0.dat"/>
+            <model name="Model 1" fileName="Doll\model0.dat" unwrappedArea="1.7837959825471430e+03" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.6135590150952339e-02" texturesUtilization="9.5125198364257813e-01" texelSize="1.2293783016502857e-02" chartsGutterSize="2" averageEdgeLength="3.4131261785644247e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrapName="0F82A0DB-EF4D-4493-B35D-C42C60E4A95Dc0e824134cb09d006c90ea09b059662e" cleanMark="2" selectedTxLayerGuid="{1D3461A1-F9E2-4B09-A5F6-26B162C1BEFD}" >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="13" id="{1D3461A1-F9E2-4B09-A5F6-26B162C1BEFD}" />
+                </textures>
+            </model>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="Doll\entities0.dat"/>
+    <animation fileName="Doll\animation0.dat"/>
+    <controlpoints fileName="Doll\controlpoints0.dat"/>
+    <appConfig fileName="Doll\appConfig0.dat" />
+</RealityCapture>
